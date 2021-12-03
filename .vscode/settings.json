@@ -1,0 +1,32 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "syscall.c",
+            "group": "Default"
+        },
+        {
+            "filePath": "syscall.h",
+            "group": "Default"
+        },
+        {
+            "filePath": "user.h",
+            "group": "Default"
+        },
+        {
+            "filePath": "usys.S",
+            "group": "Default"
+        },
+        {
+            "filePath": "sysproc.c",
+            "group": "Default"
+        },
+        {
+            "filePath": "Makefile",
+            "group": "Default"
+        },
+        {
+            "filePath": "date.h",
+            "group": "Default"
+        }
+    ]
+}
